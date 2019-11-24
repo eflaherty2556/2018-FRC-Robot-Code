@@ -9,7 +9,8 @@ become a more knowledgable software engineer, I hope to document my growth and l
 of robotics.
 
 ### What was the purpose of the robot?
-<iframe src="https://giphy.com/embed/Ll3TO0z1O7oCRtXcaC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ll3TO0z1O7oCRtXcaC">via GIPHY</a></p>
+![Robot Gif](https://media.giphy.com/media/Ll3TO0z1O7oCRtXcaC/giphy.gif)
+
 
 FRC presents a new challenge each year, with 2018's game being "Power-Up". Each alliance is made of three different teams who work 
 together to score more points than the other team. The first 15 seconds of each match involves the robots being controlled 
