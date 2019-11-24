@@ -9,8 +9,6 @@ become a more knowledgable software engineer, I hope to document my growth and l
 of robotics.
 
 ### What was the purpose of the robot?
-![Robot Gif](https://media.giphy.com/media/Ll3TO0z1O7oCRtXcaC/giphy.gif)
-
 
 FRC presents a new challenge each year, with 2018's game being "Power-Up". Each alliance is made of three different teams who work 
 together to score more points than the other team. The first 15 seconds of each match involves the robots being controlled 
@@ -18,6 +16,8 @@ completely autonomously. Then the robots were controlled by the team (I controll
 smaller "switches" which would give you points per second if you had more cubes on your side than the opponents did on their side. 
 Additionally, your robot could pass the cube through a hole on your team's side of the field and be redeemed for "power-ups" that
 would grant your alliance some bonus during the match. At the end of the match, the alliance with more points wins.
+
+![Robot Gif](https://media.giphy.com/media/Ll3TO0z1O7oCRtXcaC/giphy.gif)
 
 ### What does each part of the robot do?
 The base of the robot is the drive train which used TALON SRX motor controllers with CIM motors to allow the robot to move around
