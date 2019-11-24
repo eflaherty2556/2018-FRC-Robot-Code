@@ -22,12 +22,12 @@ would grant your alliance some bonus during the match. At the end of the match, 
 ### What does each part of the robot do?
 The base of the robot is the drive train which used TALON SRX motor controllers with CIM motors to allow the robot to move around
 the field. To score points, motors were used to rotate the arm up and down to allow the robot to lift boxes up into the switch.
-To improve its ability to grab boxes, the robot had a "gripper" powered by pneumatic cylinders which would switch the intake 
-between a wide open form to approach boxes and a tight grip to hold onto boxes. At the end of the gripper were two intake wheels
-which spun in or out to further irpove intake and to allow the box to be shot out of the gripper. 
+To improve its ability to grab boxes, the robot had a "gripper" powered by pneumatic cylinders that would switch the intake 
+between a wide-open form to approach boxes and a tight grip to hold onto boxes. At the end of the gripper were two intake wheels
+which spun in or out to further imrpove intake and to allow the box to be shot out of the gripper. 
 
 ### Take-aways
-Despite team 6934's rookie-status, we managed to place 9th individually at the event, awarding us the Highest Rookie Seed award.
+Despite team 6934's rookie-status, we managed to place 9th individually at the event, awarding us the Highest Rookie Seed Award.
 Competing in FRC taught me how to collaberate effectively with a team in a technical setting. My amazing experience with FRC
 has led me to give back by mentoring students that are currently participating in FRC through team 6934. Ultimately, my
 participation in FRC granted me hands-on experience in robotics and accelerated my learning and passion for robots.
